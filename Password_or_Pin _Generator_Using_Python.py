@@ -1,5 +1,5 @@
-"""The following is the code base for the simple password/pin generator using the basic features of python programming language. This was created in an atempt
-   to use all of the basic knowledge i have obtained after going through a python(basic) course.
+"""The following is the code base for the simple password/pin generator using the basic features of python programming language. This was created in an attempt
+   to use all of the basic knowledge i have obtained after going through a python (basic) course.
    Created by: Arnab Bindu Laha
    Date: 03/13/2023
 """
